@@ -18,8 +18,6 @@ Estou sempre aberto a novas oportunidades de colaboração e projetos emocionant
 🌐 Saiba Mais<br>
 Você pode encontrar mais informações sobre mim e meus projetos em  www.shamahsistemas.com.br
 
-Agradeço por visitar o meu perfil. Vamos codar juntos! 🚀
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
