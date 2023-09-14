@@ -4,7 +4,7 @@
 Sou um entusiasta da programação, com um foco especial em desenvolvimento PHP e automação com Google Apps Script. Minha jornada no mundo da programação começou com Google Apps Script, e desde então, venho explorando novas tecnologias e aprimorando minhas habilidades no ecossistema web.
 
 🚀 Minha Paixão<br>
-Desenvolver soluções eficientes e elegantes é o que me impulsiona. Adoro trabalhar em projetos desafiadores que me permitam aprender e crescer como profissional. Além disso, acredito no poder da colaboração e estou sempre ansioso para contribuir com projetos de código aberto e compartilhar meu conhecimento com a comunidade.
+Desenvolver soluções eficientes e elegantes é o que me impulsiona. Adoro trabalhar em projetos desafiadores que me permitam aprender e crescer como profissional.
 
 💡 Tecnologias<br>
 PHP é minha linguagem preferida e estou sempre acompanhando as últimas tendências e melhores práticas do ecossistema PHP. Além disso, tenho experiência sólida em Google Apps Script, criando automações para melhorar a produtividade e a eficiência de processos.
